@@ -41,3 +41,15 @@ Suggestions:
 Make sure you back up before applying any changes!
 
 Hope you enjoy your game!
+
+
+
+
+
+
+
+2024/5/19更新
+添加了一个小软件"ironman.py"，现在只需要把ironman.sav文件放置到相同文件夹，运行这个程序，就可以自动更改它的铁人状态啦（从铁人到非铁人，或者从非铁人到铁人）。开局的非铁人档应该是没有办法通过这个软件转换为铁人档的，不过还没有测试过，如果有人能帮忙测试一下就好了。
+
+2024/5/19 Update
+A new software "ironman.py" is added. You can directly put ironman.sav file to the same folder with this software to transfer it from ironman to unironmaned or from unironmaned to ironman. It should not be able to transfer an originally unironmaned generated save file to ironman save file to get achievements.
